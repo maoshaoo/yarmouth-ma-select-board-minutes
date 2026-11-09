@@ -1,0 +1,57 @@
+name: Update Yarmouth meeting summaries
+
+on:
+  schedule:
+    # Select Board meets Tuesday evenings; video usually posts within a day or two.
+    # Thursdays and Saturdays, ~6am Eastern.
+    - cron: "17 11 * * 4,6"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "probe (list only), run (process new), or a show id"
+        default: "probe"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg + deps
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -r requirements.txt
+
+      - name: Cache Whisper model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-${{ hashFiles('config.toml') }}
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODE: ${{ github.event.inputs.mode || 'run' }}
+        run: |
+          case "$MODE" in
+            probe) python pipeline.py --probe ;;
+            run)   python pipeline.py ;;
+            *)     python pipeline.py --show "$MODE" ;;
+          esac
+
+      - name: Commit new transcripts and summaries
+        run: |
+          git config user.name "yarmouth-minutes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add raw summary README.md processed.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Add Yarmouth meeting summaries $(date +%F)"
+          git push
