@@ -100,8 +100,8 @@ def discover() -> list[Show]:
                 media = v.get("url") or v.get("fileName") or media
             shows.append(Show(s["id"], title.strip(), date,
                               f"{BASE}/internetchannel/show/{s['id']}", media))
-        oldest = min((_parse_date(s, s.get("title", "")) or dt.date.max) for s in batch)
-        if oldest < earliest:
+                  newest = max((_parse_date(s, s.get("title", "")) or dt.date.min) for s in batch)
+           if newest < earliest:
             break
     shows.sort(key=lambda s: s.date, reverse=True)
     return shows
