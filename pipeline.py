@@ -124,16 +124,54 @@ def enrich_from_page(show: Show) -> Show:
 
 # ---------------------------------------------------------- audio + transcript
 
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
+
+
+def _media_candidates(url: str) -> list[str]:
+    """The Cablecast player streams HLS; the bare .mp4 download is often blocked."""
+    base = url.rsplit("/", 1)[0]
+    cands = [url]
+    if url.endswith(".mp4"):
+        cands += [f"{url}/playlist.m3u8", f"{url}/index.m3u8",
+                  f"{base}/vod.m3u8", f"{base}/playlist.m3u8", f"{base}/index.m3u8"]
+    return list(dict.fromkeys(cands))
+
+
+def _probe_status(url: str, page_url: str) -> int | str:
+    try:
+        r = requests.get(url, headers={"User-Agent": BROWSER_UA, "Referer": page_url,
+                                       "Range": "bytes=0-0"}, timeout=30, stream=True)
+        r.close()
+        return r.status_code
+    except Exception as e:
+        return type(e).__name__
+
+
 def extract_audio(show: Show, workdir: Path) -> Path:
     out = workdir / f"{show.id}.mp3"
-    src = show.media_url
-    if src:
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", src,
-                        "-vn", "-ac", "1", "-ar", "16000", "-b:a", "48k", str(out)], check=True)
-    else:  # last resort: let yt-dlp's generic extractor find the stream on the page
-        subprocess.run(["yt-dlp", "-x", "--audio-format", "mp3",
-                        "-o", str(workdir / f"{show.id}.%(ext)s"), show.page_url], check=True)
-    return out
+    headers = f"User-Agent: {BROWSER_UA}\r\nReferer: {show.page_url}\r\nOrigin: {BASE}\r\n"
+    tried = []
+    for src in _media_candidates(show.media_url) if show.media_url else []:
+        status = _probe_status(src, show.page_url)
+        tried.append(f"{src} -> {status}")
+        if status not in (200, 206):
+            continue
+        res = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-headers", headers,
+                              "-i", src, "-vn", "-ac", "1", "-ar", "16000", "-b:a", "48k", str(out)])
+        if res.returncode == 0 and out.exists() and out.stat().st_size > 100_000:
+            print(f"  audio from {src}", flush=True)
+            return out
+        tried[-1] += " (ffmpeg failed)"
+    # Last resort: let yt-dlp find the stream the web player uses.
+    res = subprocess.run(["yt-dlp", "-x", "--audio-format", "mp3", "--referer", show.page_url,
+                          "--user-agent", BROWSER_UA,
+                          "-o", str(workdir / f"{show.id}.%(ext)s"), show.page_url])
+    if res.returncode == 0 and out.exists():
+        print("  audio via yt-dlp", flush=True)
+        return out
+    tried.append(f"yt-dlp {show.page_url} -> failed")
+    raise RuntimeError("could not download audio. Tried:\n    " + "\n    ".join(tried))
 
 
 def transcribe(audio: Path) -> str:
@@ -300,14 +338,19 @@ def main() -> None:
         todo = [s for s in shows if s.id not in done][: CFG["source"]["max_per_run"]]
         if not todo:
             print("No new meetings.")
+        failures = 0
         for s in todo:
             try:
                 process(s, done)
             except Exception as e:  # keep going; one bad video shouldn't block the rest
-                print(f"  FAILED show {s.id}: {e}", file=sys.stderr)
+                failures += 1
+                print(f"  FAILED show {s.id}: {e}", file=sys.stderr, flush=True)
+        update_readme()
+        if failures:  # make the GitHub run show red so failures aren't silent
+            sys.exit(f"{failures} of {len(todo)} meetings failed")
+        return
     update_readme()
 
 
 if __name__ == "__main__":
     main()
-
