@@ -20,7 +20,14 @@ Modeled on [plc/louisville-co-city-council-minutes](https://github.com/plc/louis
 
 | Date | Title | Summary | Video |
 |---|---|---|---|
+| 2026-11-03 | November Town Meeting Warrant Articles | [summary](summary/2026-11-03--fall-town-meeting-warrant-preview.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5303) |
 | 2026-10-27 | Select Board 10-27-2026 | [summary](summary/2026-10-27--select-board-str-articles-wastewater-discharge.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5300) |
+| 2026-10-06 | Select Board 10-6-2026 | [summary](summary/2026-10-06--select-board-fire-standards-of-cover-warrant.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5279) |
+| 2026-09-29 | Select Board 9-29-2026 | [summary](summary/2026-09-29--select-board-summer-street-unpaved-oyster-reef.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5271) |
+| 2026-09-15 | Select Board 9-15-2026 | [summary](summary/2026-09-15--select-board-dog-hearing-tax-rate-wastewater.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5257) |
+| 2026-08-25 | Select Board 8-25-2026 | [summary](summary/2026-08-25--select-board-forest-road-counsel-goals.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5242) |
+| 2026-08-11 | Select Board 8-11-2026 | [summary](summary/2026-08-11--select-board-mma-letter-wall-that-heals.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5226) |
+| 2026-07-21 | Select Board 7-21-2026 | [summary](summary/2026-07-21--select-board-irish-village-license-mvp-grant.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5198) |
 
 <!-- recent-summaries:end -->
 
