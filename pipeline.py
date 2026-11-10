@@ -284,10 +284,15 @@ def summarize(raw_path: Path) -> Path:
     transcript = text.split("## Transcript", 1)[-1].strip()
 
     msg = anthropic.Anthropic().messages.create(
-        model=CFG["summarize"]["model"], max_tokens=4000, system=SYSTEM,
+        model=CFG["summarize"]["model"], max_tokens=16000, system=SYSTEM,
         messages=[{"role": "user", "content": PROMPT.format(
             title=meta["title"], date=meta["date"], chapters=chapters, transcript=transcript)}])
-    body = msg.content[0].text.strip()
+    # The reply can start with reasoning blocks; keep only the text blocks.
+    body = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text").strip()
+    if not body:
+        raise RuntimeError(f"Claude returned no summary text (stop reason: {msg.stop_reason})")
+    if "SLUG:" in body and not body.startswith("SLUG:"):
+        body = body[body.index("SLUG:"):]
     slug_line, _, body = body.partition("\n")
     slug = re.sub(r"[^a-z0-9-]", "", slug_line.removeprefix("SLUG:").strip().lower())
 
@@ -354,7 +359,11 @@ def main() -> None:
 
     if args.resummarize:
         for raw in sorted(RAW.glob("*.md")):
-            print(summarize(raw).relative_to(ROOT))
+            m = re.search(r"/show/(\d+)", raw.read_text())
+            print(summarize(raw).relative_to(ROOT), flush=True)
+            if m:  # transcript + summary exist, so never re-transcribe this meeting
+                done.add(int(m.group(1)))
+                STATE.write_text(json.dumps(sorted(done), indent=0))
     elif args.show:
         page = Show(args.show, "", dt.date.today(), f"{BASE}/internetchannel/show/{args.show}")
         match = next((s for s in discover() if s.id == args.show), page)

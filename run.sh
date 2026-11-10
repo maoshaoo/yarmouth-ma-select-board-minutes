@@ -40,10 +40,18 @@ git pull -q --rebase || { echo "Couldn't pull from GitHub."; exit 1; }
 caffeinate -i .venv/bin/python pipeline.py "$@"
 STATUS=$?
 
-git add .gitignore raw summary README.md processed.json 2>/dev/null
+# Save results to GitHub (only the paths that exist, so one missing file can't block the rest).
+for p in .gitignore raw summary README.md processed.json; do
+  [ -e "$p" ] && git add "$p"
+done
 if ! git diff --cached --quiet; then
-  git commit -q -m "Add Yarmouth meeting summaries $(date +%F)"
-  git push -q && echo "Pushed new summaries to GitHub."
+  git config user.name >/dev/null || git config user.name "yarmouth-minutes"
+  git config user.email >/dev/null || git config user.email "yarmouth-minutes@users.noreply.github.com"
+  if git commit -q -m "Add Yarmouth meeting summaries $(date +%F)" && git push -q; then
+    echo "Pushed new transcripts/summaries to GitHub."
+  else
+    echo "Couldn't save to GitHub (see the message above)."
+  fi
 fi
 
 if [ $STATUS -ne 0 ]; then
