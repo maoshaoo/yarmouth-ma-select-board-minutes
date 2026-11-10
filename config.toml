@@ -13,7 +13,7 @@ title_patterns = ["select board", "town meeting"]
 earliest_date = "2025-01-01"
 
 # Max new meetings per run (keeps a GitHub Actions run under its 6-hour limit).
-max_per_run = 3
+max_per_run = 8
 
 [transcribe]
 # faster-whisper model: tiny, base, small, medium. "small" is a good CPU tradeoff.
