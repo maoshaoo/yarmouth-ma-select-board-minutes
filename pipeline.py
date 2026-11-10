@@ -163,7 +163,7 @@ def _duration(src: str, headers: str | None = None) -> float | None:
 
 
 def _ffmpeg_audio(src: str, out: Path, headers: str | None = None) -> bool:
-    cmd = ["ffmpeg", "-y", "-loglevel", "error"]
+    cmd = ["ffmpeg", "-nostdin", "-y", "-loglevel", "error"]  # -nostdin: ignore keyboard input
     if headers:
         # The Town's server drops long downloads; reconnect and resume where it left off.
         cmd += ["-headers", headers, "-reconnect", "1", "-reconnect_streamed", "1",
@@ -251,7 +251,13 @@ SYSTEM = """You summarize Town of Yarmouth, Massachusetts public meetings for re
 Write plain, neutral, accurate prose. The transcript is machine-generated, so names may be
 misspelled: only name people when the role is clear (e.g. "the Select Board chair"), and never
 invent votes, figures, or outcomes that the transcript doesn't support. If a vote count is unclear,
-say the item "was approved" without a tally."""
+say the item "was approved" without a tally.
+
+Protect private individuals' privacy. Do not include personal details about residents, applicants,
+license holders, or employees that residents don't need to understand the decision: immigration or
+citizenship status, health, finances, family matters, home addresses, or criminal history. Describe
+such conditions generically (e.g. "approved with a standard condition at renewal"). Elected officials'
+and town staff's public actions and statements are fine to report."""
 
 PROMPT = """Summarize this meeting in Markdown with exactly these sections:
 
@@ -298,6 +304,8 @@ def summarize(raw_path: Path) -> Path:
 
     # Rename raw + summary to the topic slug (Louisville-style filenames).
     stem = f"{meta['date']}--{slug}" if slug else raw_path.stem
+    if (SUMMARY / f"{raw_path.stem}.md").exists():
+        stem = raw_path.stem  # re-summarizing: keep the existing filename, don't leave a duplicate
     if stem != raw_path.stem:
         raw_path = raw_path.rename(RAW / f"{stem}.md")
     out = SUMMARY / f"{stem}.md"

@@ -36,6 +36,18 @@ fi
 set -a; source .env; set +a
 
 # 3. Get the latest from GitHub, run (keeping the Mac awake), push results
+# Don't start if a run is already going (e.g. the weekly schedule fires mid-backfill).
+if pgrep -f "python pipeline.py" >/dev/null; then
+  echo "Another run is already in progress. Let it finish first."
+  exit 0
+fi
+git config user.name >/dev/null || git config user.name "yarmouth-minutes"
+git config user.email >/dev/null || git config user.email "yarmouth-minutes@users.noreply.github.com"
+# Save any results left over from an interrupted run, so the pull below isn't blocked.
+for p in raw summary README.md processed.json; do
+  [ -e "$p" ] && git add "$p"
+done
+git diff --cached --quiet || git commit -q -m "Save results from an interrupted run"
 git pull -q --rebase || { echo "Couldn't pull from GitHub."; exit 1; }
 caffeinate -i .venv/bin/python pipeline.py "$@"
 STATUS=$?
@@ -44,10 +56,10 @@ STATUS=$?
 for p in .gitignore raw summary README.md processed.json; do
   [ -e "$p" ] && git add "$p"
 done
-if ! git diff --cached --quiet; then
-  git config user.name >/dev/null || git config user.name "yarmouth-minutes"
-  git config user.email >/dev/null || git config user.email "yarmouth-minutes@users.noreply.github.com"
-  if git commit -q -m "Add Yarmouth meeting summaries $(date +%F)" && git push -q; then
+git diff --cached --quiet || git commit -q -m "Add Yarmouth meeting summaries $(date +%F)"
+# Push anything not yet on GitHub (this run's results, or leftovers saved at the start).
+if [ -n "$(git log --oneline @{u}..HEAD 2>/dev/null)" ]; then
+  if git push -q; then
     echo "Pushed new transcripts/summaries to GitHub."
   else
     echo "Couldn't save to GitHub (see the message above)."
