@@ -18,7 +18,9 @@ Modeled on [plc/louisville-co-city-council-minutes](https://github.com/plc/louis
 
 <!-- recent-summaries:start -->
 
-_None yet — the first run will fill this in._
+| Date | Title | Summary | Video |
+|---|---|---|---|
+| 2026-10-27 | Select Board 10-27-2026 | [summary](summary/2026-10-27--select-board-str-articles-wastewater-discharge.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5300) |
 
 <!-- recent-summaries:end -->
 
