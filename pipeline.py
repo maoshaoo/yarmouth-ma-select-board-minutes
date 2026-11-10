@@ -148,8 +148,33 @@ def _probe_status(url: str, page_url: str) -> int | str:
         return type(e).__name__
 
 
+SAMPLE_RATE = 16000  # Whisper's input rate; audio is saved as raw 32-bit float samples
+
+
+def _duration(src: str, headers: str | None = None) -> float | None:
+    cmd = ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0"]
+    if headers:
+        cmd += ["-headers", headers]
+    try:
+        return float(subprocess.run(cmd + [src], capture_output=True, text=True,
+                                    timeout=120).stdout.strip())
+    except Exception:
+        return None
+
+
+def _ffmpeg_audio(src: str, out: Path, headers: str | None = None) -> bool:
+    cmd = ["ffmpeg", "-y", "-loglevel", "error"]
+    if headers:
+        # The Town's server drops long downloads; reconnect and resume where it left off.
+        cmd += ["-headers", headers, "-reconnect", "1", "-reconnect_streamed", "1",
+                "-reconnect_on_network_error", "1", "-reconnect_on_http_error", "5xx",
+                "-reconnect_delay_max", "30"]
+    cmd += ["-i", src, "-vn", "-ac", "1", "-ar", str(SAMPLE_RATE), "-f", "f32le", str(out)]
+    return subprocess.run(cmd).returncode == 0 and out.exists()
+
+
 def extract_audio(show: Show, workdir: Path) -> Path:
-    out = workdir / f"{show.id}.mp3"
+    out = workdir / f"{show.id}.f32"
     headers = f"User-Agent: {BROWSER_UA}\r\nReferer: {show.page_url}\r\nOrigin: {BASE}\r\n"
     tried = []
     for src in _media_candidates(show.media_url) if show.media_url else []:
@@ -157,17 +182,22 @@ def extract_audio(show: Show, workdir: Path) -> Path:
         tried.append(f"{src} -> {status}")
         if status not in (200, 206):
             continue
-        res = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-headers", headers,
-                              "-i", src, "-vn", "-ac", "1", "-ar", "16000", "-b:a", "48k", str(out)])
-        if res.returncode == 0 and out.exists() and out.stat().st_size > 100_000:
-            print(f"  audio from {src}", flush=True)
-            return out
-        tried[-1] += " (ffmpeg failed)"
+        expected = _duration(src, headers)
+        for attempt in range(1, 4):
+            ok = _ffmpeg_audio(src, out, headers)
+            got = out.stat().st_size / 4 / SAMPLE_RATE if out.exists() else 0
+            if ok and got > 60 and (not expected or got >= 0.97 * expected):
+                print(f"  audio from {src} ({got / 60:.0f} min)", flush=True)
+                return out
+            exp = f" of {expected / 60:.0f}" if expected else ""
+            print(f"  download incomplete ({got / 60:.0f}{exp} min), retry {attempt}/3", flush=True)
+        tried[-1] += " (download kept getting cut off)"
     # Last resort: let yt-dlp find the stream the web player uses.
     res = subprocess.run(["yt-dlp", "-x", "--audio-format", "mp3", "--referer", show.page_url,
                           "--user-agent", BROWSER_UA,
                           "-o", str(workdir / f"{show.id}.%(ext)s"), show.page_url])
-    if res.returncode == 0 and out.exists():
+    mp3 = workdir / f"{show.id}.mp3"
+    if res.returncode == 0 and mp3.exists() and _ffmpeg_audio(str(mp3), out):
         print("  audio via yt-dlp", flush=True)
         return out
     tried.append(f"yt-dlp {show.page_url} -> failed")
@@ -175,9 +205,12 @@ def extract_audio(show: Show, workdir: Path) -> Path:
 
 
 def transcribe(audio: Path) -> str:
+    import numpy as np
     from faster_whisper import WhisperModel
     model = WhisperModel(CFG["transcribe"]["model"], device="cpu", compute_type="int8")
-    segments, _ = model.transcribe(str(audio), language="en", vad_filter=True,
+    # Pass decoded samples directly, so faster-whisper never needs its own audio decoder.
+    samples = np.fromfile(audio, dtype=np.float32)
+    segments, _ = model.transcribe(samples, language="en", vad_filter=True,
                                    initial_prompt="Town of Yarmouth, Massachusetts Select Board meeting. "
                                    "South Yarmouth, West Yarmouth, Yarmouth Port, Bass River, Cape Cod.")
     lines = []
