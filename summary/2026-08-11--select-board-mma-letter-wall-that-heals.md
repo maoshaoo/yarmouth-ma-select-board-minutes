@@ -8,61 +8,59 @@ channel: "Town of Yarmouth Government Channel 8"
 
 ## Summary
 
-The Select Board's August 11, 2026 meeting centered on state housing legislation and several local approvals. The board voted to go on record supporting the Massachusetts Municipal Association's (MMA) positions on the state economic development bill and the environmental bond bill. Both bills are in conference committee. Board members and the town administrator objected to provisions that would allow duplexes by right on residential lots, expand accessory dwelling units (ADUs) by right, limit minimum parking requirements, speed up housing reviews, and tie state grant preference to local zoning. The board removed support for the MMA's call for a standardized site plan review process, and the chair was authorized to share these concerns with legislators.
+The Select Board met on August 11, 2026 and approved a full agenda, mostly by unanimous vote. The most consequential items were the board's formal opposition to parts of two state bills, the adoption of a Complete Streets policy, and approval of all-way stop control at two more intersections. The board voted to endorse the Massachusetts Municipal Association's (MMA) positions on the state economic development bill (Senate 3178) and environmental bond bill (Senate 3064), which are in conference. Members objected to provisions such as duplexes by right on all residential lots, grant preferences tied to local zoning, accelerated housing reviews, and limits on parking minimums. Before the vote they removed support for the MMA's standardized site plan review item, citing local design review control. The chair was authorized to share the town's concerns with legislators.
 
-The board also approved a 50% fee waiver for the Cape and Islands Veterans Outreach event bringing "The Wall That Heals," a Vietnam Veterans Memorial replica, to Parker's River Landing for six days in September. It adopted the 2026 Hazard Mitigation Plan and the town's Complete Streets policy. It approved all-way stop control at two more intersections and accepted a zero-percent Clean Water Trust interim loan for PFAS treatment at wells 10 and 11.
+The board also adopted the 2026 Hazard Mitigation Plan, which FEMA had approved pending local adoption. FEMA's requested changes include a new hazard profile for rising groundwater and added cost ranges and prioritization for mitigation actions. The board accepted a zero-percent Clean Water Trust interim loan note for the $5,050,000 Article 14 PFAS project at wells 10 and 11. It also set a November 16, 2026 special town meeting at 6 p.m., with the location still to be decided between the middle school auditorium and a gymnasium.
 
-Other business included setting a special town meeting for November 16 at 6 p.m. (location to be determined), adopting the September 1 state primary warrant, and recognizing the retirements of Assessing Director Andrew Machado and Assistant Town Clerk Susan Regan. Public comment covered a neighbor's concerns about a short-term rental on Beacon Street, traffic safety on Buck Island Road, and an overdose awareness event.
+The board approved a 50% fee reduction for Cape and Islands Veterans Outreach to host The Wall That Heals at Parker's River Landing in September. The traveling Vietnam Veterans Memorial replica is expected to draw 8,000 to 10,000 visitors over six days. Staff said the town's all-way stop at Station Avenue and Wood Road cut crashes from 13 (with seven injuries) to two (no injuries), and the board backed two more conversions. The board also recognized the retirements of Director of Assessing Andrew Machado and Assistant Town Clerk Susan Regan, both effective August 14.
 
-In the closing agenda discussion, board members discussed the Forest Road housing project and a possible three-minute public comment policy. The board also moved the September 1 meeting to September 15 and 29 because of the primary.
+Public comment included a neighbor's concerns about a possible short-term rental on a dead-end street, a resident's traffic safety suggestions for Buck Island Road and Route 28, a resident's objection to the duplex bill, and an announcement of the Overdose Awareness Day event. In individual items, members discussed the Forest Road housing project, community events and meeting outside Town Hall, and a possible three-minute public comment policy, which will be scheduled for later discussion.
 
 ## Key Points & Votes
 
-### State housing and environmental legislation (MMA letters)
-- **Approved** a motion to strongly endorse the MMA's positions on the economic development bill (S. 3178) and the environmental bond bill (S. 3064), and to authorize the chair to communicate concerns to legislators. The board **amended it to drop support for the MMA's standardized site plan review provision**, then approved the letter.
-- Concerns raised: duplexes by right on all residential lots, ADUs by right in all residential districts, limits on minimum parking, accelerated housing review, by-right affordable subdivisions, and grant preference modifiers that could disadvantage Cape towns for housing and clean water funding.
-- The board agreed to invite state legislators back after the November election.
+### State Housing and Environmental Bills (MMA Letter)
+- **Approved a motion to endorse the MMA's positions** on Senate 3178 and Senate 3064 and to authorize the chair to communicate concerns to legislators. A vote tally was not stated.
+- **Approved an amendment** striking support for the MMA's standardized site plan review provision. Members worried it could override Yarmouth's design review.
+- The town administrator and members cited concerns about duplexes by right, grant preference modifiers that could hurt Cape clean-water funding competitiveness, and accelerated review timelines. They also cited parking minimum limits, expanded ADUs by right (which could undo local ADU bylaw work), and exemptions from local wetlands and wastewater rules.
+- A resident asked during public comment that the board oppose the duplex bill, citing water, sewer, and road capacity.
 
-### Wall That Heals at Parker's River Landing
-- **Approved a 50% reduction** of the site fees. The total fee was **$5,800**, with **$5,700** remaining after the application fee was paid.
-- The event has a **$25,000** Tourism Revenue Preservation Fund grant and is expected to draw 8,000–10,000 visitors.
-- The organizer said the group will pay full police and fire detail rates and half the site fee. It requested a waiver of administrative and equipment costs for those details.
+### Wastewater, PFAS, and Hazard Planning
+- **Unanimously accepted the Clean Water Trust interim loan note at 0%** for the **$5,050,000** Article 14 PFAS project for wells 10 and 11.
+- **Unanimously adopted the 2026 Hazard Mitigation Plan.** FEMA asked for a groundwater table hazard profile and for cost ranges on actions (under **$50,000** for routine items, **$100,000–$200,000** for larger projects). An approved plan improves grant eligibility.
 
-### Infrastructure, safety, and planning
-- **Approved** accepting the Clean Water Trust interim loan note at **0%** for the **$5,050,000** PFAS project (Article 14) at wells 10 and 11.
-- **Adopted** the 2026 Hazard Mitigation Plan, which FEMA approved pending local adoption. New content includes a groundwater-table hazard profile and cost ranges for mitigation actions.
-- **Adopted** the Complete Streets policy as presented. Staff scored it about 86 and said it positions the town for MassDOT funding of up to roughly $500,000 over a rolling four years.
-- **Approved** all-way stop control at Buck Island Road/Townbrook Road and at Willow Street/South Street. MassDOT supplies the signs, and the town pays for installation and pavement markings. At the Station Avenue/Wood Road all-way stop, crashes fell from 13 (seven injuries) to two (no injuries).
-- Staff will look at crash data for Union Street and White Rock Road, and a future traffic signal at Townbrook Road and Route 28 is expected.
+### Complete Streets and Traffic Safety
+- **Approved adoption of the Complete Streets policy** as presented. It makes the town eligible for MassDOT funding of up to about **$500,000** over a rolling four-year period. The town's policy scored about 86 on the state rubric. Outreach found residents mainly want sidewalks. A prioritization plan is the next step.
+- **Approved all-way stop control** at Buck Island Road/Town Brook Road and Willow Street/South Street. MassDOT supplies the signs, and the town pays for installation and pavement markings. Completion is expected this fall or next spring.
+- Members asked staff to look at the Union Street/White Rock Road intersection. Town engineering noted a Route 28 traffic signal at Town Brook Road is also in the pipeline.
 
-### Elections and town meeting
-- **Approved** delegating police assignment at polling places to the police chief in consultation with the town clerk for the September 1 primary and November 3 election.
-- **Approved** the warrant for the **September 1 state primary**. Early in-person voting begins August 22 at Town Hall.
-- **Approved** a special town meeting on **Monday, November 16 at 6 p.m.**, with the location to be determined. The board leans toward a school gymnasium over the intermediate school auditorium, pending answers on technology, seating, and availability. The article deadline is September 4.
+### The Wall That Heals
+- **Approved the requested 50% fee reduction** for Parker's River Landing use. The posted total was **$5,800** (after the **$50** application fee, **$5,700** remained). The organizers will pay full police and fire detail rates. The town's Tourism Revenue Preservation Fund had previously granted **$25,000**.
 
-### Licensing, hearings, and appointments
-- **Approved** a pledge of license and inventory for Yarmouth Wine and Spirits, a procedural vote after a lender audit found the approval had not been obtained.
-- **Continued** the dog complaint hearing to **September 15** and re-advertised it.
-- **Accepted** the resignation of Richard Tresyak from the Zoning Board of Appeals.
-- **Appointed** John Greco to the Community and Economic Development Committee for a three-year term.
-- **Approved** the minutes of August 12, 19, and 26, 2025.
-- **Approved** the consent agenda, and separately **approved** an amended town administrator contract extending the term one year to April 5, 2028.
-- **Adjourned** after a unanimous vote.
+### Elections and Town Meeting
+- **Unanimously delegated** poll-detail police assignments to the police chief in consultation with the Town Clerk, for the September 1 primary and November 3 election.
+- **Unanimously adopted the warrant** for the September 1, 2026 state primary. In-person early voting begins Saturday, August 22, 9 a.m.–3 p.m. at Town Hall, then weekdays during business hours.
+- **Unanimously set a special town meeting for November 16 at 6 p.m.**, with the date and calendar approved and the location to be determined. The article deadline is **September 4**.
 
-### Retirements
-- The board recognized Andrew Machado, retiring as Director of Assessing after 11 years, and Susan Regan, retiring as assistant town clerk after almost 11½ years. Both retirements take effect August 14. Speakers credited Machado's office with Yarmouth's early tax rate certification.
+### Licensing, Appointments, and Administration
+- **Unanimously continued the dog complaint hearing to September 15**, to be re-advertised.
+- **Unanimously approved a pledge of license and inventory** for Yarmouth Wine & Spirits, a procedural vote with no notice required.
+- **Accepted the resignation** of a Zoning Board of Appeals member and **appointed John Greco** to the Community and Economic Development Committee through July 2029 (a three-year term).
+- **Approved minutes** for August 12, 19, and 26, 2025, and the **consent agenda**. The **amended town administrator employment agreement** was **approved unanimously**. It extends the term one year to April 5, 2028 and includes a merit step and cost-of-living increase effective April 5, 2027.
 
-### Public comment and future agenda items
-- A Beacon Street resident objected to a short-term rental at 176 Beacon Street. The board noted its letter was forwarded to the planning board and board of health. A member asked staff for a checklist of the approvals a short-term rental needs.
-- A caller urged lane markings on Buck Island Road at the Higgins Crow Road intersection and more traffic enforcement.
-- A resident announced the International Overdose Awareness Day event at Smuggler's Beach on August 31 at 5:30 p.m.
-- A resident urged the board to oppose the state duplex bill, which the board later did through the MMA letter vote.
-- For August 25, the agenda includes the draft board goals, a PFAS update, and committee disbanding votes. Forest Road housing was discussed but not placed on the agenda, with open meeting law cited. Board members expressed continued opposition and want to invite the Association to Preserve Cape Cod to speak.
-- A proposed three-minute public comment limit will be scheduled for discussion. At least one member opposed putting it on the agenda.
-- The board is waiting on DPW and police responses about parking on a town-owned wooded lot in South Yarmouth.
+### Announcements and Updates
+- Cape Cod Gateway Airport noise roundtable: **September 16, 6 p.m.**, Barnstable High School.
+- Overdose Awareness Day event: **August 31, 5:30 p.m.**, Smuggler's Beach.
+- The Grays Beach boardwalk repair is hoped to finish by the end of August.
+- PMA Consultants was selected as project manager for the Margaret E. Small School project.
+- The chair and town administrator attended an ABCC hearing on the board's decision on a liquor license. The record remains open and the town administrator noted a possible remand.
+- A finance workshop for the Finance Committee is scheduled for August 13, and the FY28 budget and capital plan process has begun.
+
+### Upcoming Agenda
+- August 25 is expected to cover the board's draft goals, a PFAS update, and disbanding two committees.
+- The September 1 meeting (primary day) is likely to move to September 15 or 29.
+- Members want to discuss the Forest Road housing project, though it may need to be posted for a later meeting. A public comment time-limit policy and a state legislators' visit after the November election were also raised.
 
 ## Takeaways
-
-- **Development and housing:** The board is prepared to push back on state mandates that would override local zoning, and it will return to the Forest Road housing project on August 25. Residents should expect continued debate over how much affordable housing is built and where.
-- **Wastewater, water, and roads:** The zero-percent PFAS loan lowers borrowing costs for well treatment. Sewer work (contract six) starting this fall will detour traffic through Buck Island and Townbrook, where a new all-way stop is planned. Board members said the all-way stops are a step before a possible signal.
-- **Town services and events:** Early voting starts August 22 and the primary is September 1. The Wall That Heals draws large crowds after Labor Day, so expect extra traffic and police details. A November 16 special town meeting and the FY28 budget and capital process are under way, and staff retirements and transitions in assessing and the clerk's office are proceeding on succession plans.
+- Yarmouth's board is firmly opposed to state mandates that override local zoning, wetlands, and wastewater rules. It is lobbying legislators now, while the bills are in conference.
+- Water and sewer infrastructure continues to move forward, with a zero-interest loan for PFAS treatment at wells 10 and 11. The hazard plan also adds groundwater rise to the town's risk planning.
+- Traffic safety is a growing focus: two more all-way stops are coming, Complete Streets funding becomes possible, and sewer construction detours are expected to affect Buck Island Road. Residents can also vote early starting August 22 for the September 1 primary.

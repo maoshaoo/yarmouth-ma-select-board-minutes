@@ -8,57 +8,85 @@ channel: "Town of Yarmouth Government Channel 8"
 
 ## Summary
 
-The Select Board's most consequential action of the night was a formal dog hearing under state law. After sworn testimony from town staff and the complainant, the board unanimously found the dog involved in a July 2025 incident to be a **nuisance dog**, not a dangerous dog. It then unanimously ordered the dog's owner to follow the Natural Resources Department's recommendations: secure the chain-link fence and keep the dog restrained in the front yard. A proposal for an additional street-side fence got no second. The board also voted to continue taxing all property classes at one rate, which sets the residential and commercial rate at **$7.28 per $1,000**.
+The Select Board's most consequential action was a formal dog-nuisance hearing under state law. After sworn testimony from town staff, the complainant, and the dog's owner, the board unanimously found the dog to be a **nuisance dog**, not a dangerous dog. It then unanimously ordered the owner to follow the Natural Resources Department's recommendations, which are to secure the chain-link fencing and keep the dog restrained if it is in the front yard. A proposal for an additional street-side fence got no second. The board also voted to have town counsel draft the written decision, which the town administrator will sign.
 
-The board also heard two environmental presentations from Horsley Witten and Natural Resources. The Long Pond water quality study found elevated nitrogen and phosphorus. Consultants called current conditions "not necessarily alarming" but trending toward poor water quality. The Ways to Water assessment inventoried 60 public access points and ranked improvement projects. Neither item required a vote. Later, the town administrator warned that wastewater permitting with the state Department of Environmental Protection (DEP) has reached a critical stage and asked for a board agenda item on it soon.
+The board kept the town's long-standing tax policy. It voted to tax all property classes at the same rate (a "factor of one") and to reject the residential and small commercial exemptions. The assessing director said the resulting rate would be **$7.28 per thousand**. Board members noted the commercial share of the tax base has fallen to **4.93%**, and they said they plan to discuss a residential exemption, possibly tied to seasonal community status, in future workshops. Separately, the board granted a craft-fair organizer a reduced fee to use Parker's River Landing in May 2027.
 
-Other business included a citation honoring the Davenport Companies' 70th anniversary, a liquor license manager change, and a reduced rental fee for a craft fair at Parker's River Landing. The Mid-Cape Cultural Council presented its grant cycle. The board appointed a representative to the Dennis-Yarmouth regional agreement working committee, approved minutes, and reviewed upcoming agendas. Residents also raised airport noise and Route 28 concerns during public comment.
+Presentations from Horsley Witten and the Natural Resources Division covered two studies. The Long Pond water-quality study found elevated nitrogen and phosphorus and described the pond as borderline mesotrophic/eutrophic. Conditions are "not alarming" but trending the wrong way. The Ways to Water study counted 60 public water-access points and ranked priorities for improvement. Toward the end, the town administrator warned that wastewater permitting with the state DEP has reached a critical stage, and the board agreed to take it up quickly.
+
+The evening also included a citation for the Davenport companies' 70th anniversary, public comment on Route 28 and airport noise, announcements about the Wall That Heals, and a long agenda-planning discussion.
 
 ## Key Points & Votes
 
-### Dog hearing (Chapter 140, Section 157)
-- The hearing concerned a complaint about a dog owned by the resident named in the hearing notice, for an incident on July 26, 2025 involving a dog-on-dog altercation and bites to two people. Town counsel Steve Chaplin ran the proceeding.
-- Witnesses were a natural resource officer, the animal control officer, the dog's owner, the complainant (who said his wife's dog was seriously injured and his wife's hand badly bitten), and the Natural Resources director. The two accounts differed on whether the incident began on the owner's property or in the street.
-- The Natural Resources director said the property's chain-link fence was unsecured at the bottom at the time. He said the owner has since secured it, and that there have been no other complaints about the dog.
-- **Board found the dog a nuisance dog (unanimous).** Members cited uncertainty about provocation and the absence of one key witness.
-- **Board ordered the owner to follow the Natural Resources recommendations (unanimous):** secure the four-foot chain-link fence, and keep the dog on a leash or tether whenever it is in the front yard.
-- A proposed amendment requiring an additional front fence near the street received no second.
-- **Board authorized town counsel to prepare the written decision, to be signed by the town administrator (unanimous).** Counsel noted that decisions are appealable.
+### Dog nuisance hearing
+- Hearing held under G.L. c. 140, §157, with town counsel guiding the process. The record included 13 documents plus photos and veterinary records the complainant submitted.
+- The incident was a July 2025 altercation involving two dogs and two people near the owner's property. The accounts differed on where it started and who provoked it. No video captured the incident.
+- Staff testified that the dog had been licensed after the incident, passed its rabies quarantine, and has drawn no other complaints. The Natural Resources director said the fencing had been repaired to his satisfaction.
+- The complainant asked for an opaque six-foot fence or removal of the dog and said the staff recommendations were not enough.
+- Board members noted that only one of the people directly involved testified. Counsel explained the nuisance and dangerous definitions, the burden of proof, and that the decision can be appealed.
+- **Motion to close the public hearing: approved.**
+- **Finding of nuisance dog: approved unanimously.**
+- **Order that the owner follow the Natural Resources Department's recommendations: approved unanimously.**
+- **Proposed amendment adding a street-side fence: failed for lack of a second.**
+- **Authorize town counsel to prepare the decision, to be signed by the town administrator: approved unanimously.**
 
 ### Tax classification
-- The assessing director reported that the Department of Revenue certified the town's values on September 2.
-- **Board voted to adopt a factor of one (single tax rate for all classes) and to reject the residential and small commercial exemptions.** The projected rate is **$7.28 per $1,000**.
-- The commercial share of the tax base is **4.93%**, down from roughly 9–10% years ago. Board members called the decline concerning.
-- The board plans to discuss a residential exemption, possibly tied to seasonal community status, at a future workshop.
+- The Department of Revenue certified the town's values on September 2.
+- The Board of Assessors recommended a factor of one.
+- **Continue taxing all classes at the same rate (factor of one) and reject the residential and small commercial exemptions: approved. The rate would be $7.28 per thousand.**
+- The chair said the commercial tax base has shrunk from roughly 9–10% to **4.93%**, which is a concern.
 
-### Licensing and fees
-- **Approved change of ABCC manager** for the business at 822 Route 28, South Yarmouth, from Christopher Wise to Sandy West.
-- **Craft fair fee (A Different Drummer Craft Fair, May 21–23, 2027, Parker's River Landing):** the organizer asked for an hourly rate for Friday setup. The board instead **voted to charge two full event days at $1,800 per day and waive the Friday setup fee**. Members cited the off-season date and the first year of the venue's use.
+### Parker's River Landing craft fair fee
+- The event is set for May 21–23, 2027, with set-up on Friday. The organizer, a for-profit, was already paying **$1,800 per day** for Saturday and Sunday and asked for an hourly rate on Friday.
+- The community development director supported a reduction for the venue's first year but cautioned against routine waivers.
+- **Charge for two full days and waive the Friday fee entirely: approved.**
 
-### Presentations (no votes)
-- **Long Pond study:**
-  - Sewering (planned for phases 3, 4, 6 and 7, scheduled to finish by 2064) is the highest-impact fix for nitrogen.
-  - Sediment dredging and alum treatment address phosphorus. Dredging is costly (a Nantucket project is estimated near **$5 million**), and alum is cheaper but must be repeated.
-  - Lowering the dam by removing flashboards could cut water residence time by 50–70%, but needs more study because of fish passage and downstream effects.
-  - Other recommendations: inspect high-risk septic systems, low-phosphorus fertilizer outreach, and continued monitoring.
-  - The pond was recently listed as impaired for PFAS in fish tissue. PFAS was not studied.
-- **Ways to Water:** 60 sites (28 town-owned waterfront parcels and 32 road ends). Top-ranked sites are Wings Grove Beach Park, Englewood Boat Ramp, Crab Creek, Baxter Avenue, Driftwood Lane and Bass Hole. A **$74,000** tourism revenue grant is already in hand for the Englewood railing. Two sites have abutter encroachment and are left off the draft public map. Consultants recommended signage, vegetation upkeep, and reassessment at least every five years.
-- **Mid-Cape Cultural Council:** about **$23,400** is available for Barnstable and Yarmouth projects. Applications are open through **October 15**, and a grantee workshop is planned for October 1.
+### Long Pond study (Horsley Witten and Natural Resources)
+- Nutrient levels are elevated. Nitrogen comes mostly from septic systems, and phosphorus mostly from stormwater and sediment.
+- Septic areas draining to the pond are slated for sewering in Phases 3, 4, 6 and 7, with work scheduled through 2064.
+- Consultants said alum treatment is cheaper but must be repeated (about $300,000 for a 100-acre pond). Dredging is far costlier, and a Nantucket project is estimated at about **$5 million**. They advised cutting external nutrient sources first.
+- Lowering the dam by removing boards could cut water residence time by 50–70% but needs further study because of fish passage and downstream effects.
+- The pond was recently listed as impaired for PFAS in fish tissue. That was outside the study's scope, and members asked about monitoring baselines.
+- Recommendations include inspecting high-risk septic systems, outreach on low-phosphorus fertilizer, continued monitoring, and feeding the findings into the wastewater phasing update.
 
-### Appointments, minutes and recognition
-- **Liz was appointed as the board's representative to the Dennis-Yarmouth regional agreement working committee.**
-- **Approved** minutes of October 7 and October 21, 2025, and **approved and released** the October 21, 2025 executive session minutes. The consent agenda was also accepted. An assessors appointment was discussed but the outcome is unclear in the transcript.
-- The board presented a citation to the Davenport Companies for 70 years in business.
+### Ways to Water study
+- Yarmouth has 60 public water-access points: 28 town-owned parcels and 32 road ends.
+- Top six priorities: Wings Grove Beach Park, Englewood Boat Ramp, Crab Creek, Baxter Avenue, Driftwood Lane, and Bass Hole.
+- Work is already underway at several. Examples are a stormwater design at Wings Grove, a **$74,000** tourism-fund grant for the Englewood railing, and the Crab Creek culvert and dock project.
+- Two sites with abutter encroachment were left off the draft public map. Staff said resolving them will be a difficult conversation.
+- A draft interactive map and printable map are planned. The consultants recommend reassessing the sites every five years.
+- Counsel's view, relayed at the meeting, was that signage and maintenance do not increase the town's liability.
 
-### Upcoming agenda and town administrator report
-- The September 29 meeting will include the Summer Street discussion, with notices to abutters. The Cape Light Compact presentation was moved to October 20 to make room.
-- Future topics include seasonal communities, license plate readers and other police cameras, a capital and residential exemption workshop in November, and a long-range financial plan.
-- Town meeting will most likely be held in the school auditorium. The town clerk said moving to a gym is impractical for this fall because of floor covers, chairs and audio/video requirements. A board member will be absent from town meeting.
-- **Wastewater:** DEP's standards and conservative discharge estimates are complicating permitting of expanded groundwater recharge at Bayberry Hills, the site that would expand discharge capacity beyond Buck Island. Building it all at once could cost roughly **$45 million**, so the town is pursuing a phased approach. The wastewater advisory committee is drafting a letter recommending money for legal action against DEP. The administrator asked for an agenda item soon, and the board chair said she will join the committee's Tuesday meeting.
-- A **$15,000** donation will help complete the fire training burn facility. A 16-month financial feasibility study kicked off with consultants, and an offer was made for a facilities manager and energy coordinator.
+### Appointments and housekeeping
+- **Liz appointed as the board's representative to the Dennis-Yarmouth regional agreement working committee: approved.**
+- **Minutes of October 7 and October 21, 2025: approved.**
+- **October 21, 2025 executive session minutes approved and released: approved.**
+- **Consent agenda: approved.**
+- A Board of Assessors appointment was discussed, but the outcome is unclear in the transcript.
+
+### Other presentations and recognitions
+- The board presented a citation to the Davenport companies for 70 years in business.
+- The Mid-Cape Cultural Council (Yarmouth/Barnstable) said it has **$23,400** to award. Applications are open through **October 15**, and a grantee workshop is planned for October 1.
+
+### Public comment and announcements
+- A resident asked about the airport noise roundtable. It is Wednesday, September 16, at 6 PM at Barnstable High School, with remote viewing available but public comment only in person.
+- The Hyannis Park Civic Association asked to be included in planning for the Route 28 improvements. Its concerns include a possible rotary, neighborhood access and detour traffic.
+- The Wall That Heals is at Parker's River Landing September 17–20 with 24-hour access, and a Bells Across America event is planned at Town Hall on September 17.
+
+### Town meeting venue and agenda planning
+- The town clerk and board said the Dennis-Yarmouth auditorium remains the only practical venue for the fall special town meeting. Floor covers, sound and video, and chair rentals made a gymnasium impractical. Clickers are being explored for the future.
+- The September 29 agenda will include the Summer Street discussion, with abutters notified. The Cape Light Compact presentation was pushed to October 20.
+- Future items listed include seasonal communities, license-plate reader and camera policy, a state representatives visit in early 2027, and a November workshop on long-term capital and the residential exemption.
+- One board member said they will miss the special town meeting.
+
+### Town administrator's report
+- A **$15,000** donation will help finish the fire training burn facility.
+- A 16-month financial feasibility study for the Maddukey's project kicked off.
+- A facilities and energy manager has been offered the job.
+- **Wastewater:** The state DEP's discharge standards and conservative load estimates could force the town to build far more capacity than it needs. The town administrator cited a figure of roughly **$45 million** that would fall on property taxpayers. The town is pursuing a phased approach, and the advisory committee is writing a letter urging money be set aside for possible legal action. A board member will attend the Tuesday meeting, and the board agreed to schedule a discussion soon.
 
 ## Takeaways
 
-- **Taxes:** The single rate stays at $7.28 per $1,000, but the commercial base is shrinking. A residential exemption, long-term capital planning, and a large wastewater price tag (the administrator cited $600–$700 million in investments) are on the horizon for workshops this fall.
-- **Wastewater and water quality:** Sewering remains the main fix for Long Pond and the Parker's River estuary. Permitting delays with DEP could put a costly, late-arriving funding request in front of town meeting, so board involvement is coming.
-- **Town services and public access:** Residents should see improved water access (signage, a public map, stormwater and railing work) and a first-year fee break for a new Parker's River Landing event. The Route 28 improvements plan and airport noise were raised by residents, and the board plans to take up Summer Street on September 29.
+- **Taxes:** Residential and commercial properties will continue to pay the same rate ($7.28 per thousand), and the board signaled it will study a residential exemption and a long-range financial plan this fall.
+- **Wastewater and water quality:** Sewering is the biggest lever for protecting Long Pond and Parker's River, but the state permitting dispute over discharge capacity could affect cost and timing, and a town meeting article is needed soon.
+- **Town services and access:** Residents can expect better signage, maps and repairs at public water-access points, but some sites face neighbor encroachment and parking issues. The fall town meeting stays at the high school auditorium.

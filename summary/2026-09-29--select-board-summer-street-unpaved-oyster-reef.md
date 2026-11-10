@@ -8,62 +8,64 @@ channel: "Town of Yarmouth Government Channel 8"
 
 ## Summary
 
-The Select Board voted to leave the unpaved section of Summer Street, between Old Hyannis Road and Willow Street, as it is. The decision followed a public forum that drew a full room and many speakers. A petition with about 58 signatures had asked the town to maintain or pave the road. The town administrator said the road has been left unpaved deliberately for decades, going back to select board decisions in the 1980s through early 2000s. Board members cited safety, speed and cut-through traffic, the children's beach at Dennis Pond, and the road's scenic character. The public works director gave a rough paving estimate of about $403,000, including about $100,000 for drainage.
+The Select Board voted to leave the unpaved section of Summer Street, between Old Hyannis Road and Willow Street, unpaved. The vote followed a long public forum on a petition with about 58 signatures asking the town to pave or better maintain it. The town received roughly 40 or more letters, and none supported paving. The police chief's written opinion said the benefits did not outweigh the potential negatives, and the board chair reported that police and fire both did not support paving. Residents of the lower street, speaking against paving, raised traffic, speed, child safety at the Dennis Pond beach, GPS-driven cut-through traffic, water quality and the road's scenic and historic character. Neighbors from Old Hyannis Road, who supported paving, described potholes, long detours and emergency-access concerns. The Department of Public Works director said the road is graded in spring and fall and has been graded twice this year. He gave a rough paving estimate of about $403,000, including about $100,000 for drainage and a 20% contingency. The vote tally was not clear in the transcript.
 
-The board also approved the FY2028 budget policy statement, which keeps the town's conservative, structurally balanced approach. The town administrator said total revenues are still growing but more slowly, because non-property-tax local revenues have softened. The budget process is starting about two weeks earlier this year. The board also approved the town's role in a Bass River oyster reef restoration project with the Nature Conservancy and the state Division of Marine Fisheries. It adopted the warrant and police-detail delegation for the November 3, 2026 state election and endorsed a new building, grounds and energy management superintendent.
+The board also approved the FY2028 Select Board budget policy, which keeps the town's conservative, structurally balanced approach. It allows increases of up to 2.5% for the Dennis-Yarmouth Regional School District and Cape Cod Tech. The town administrator said revenues are still growing but more slowly, because non-property-tax local revenue (about 20% of the mix, such as motor vehicle excise and permits) has softened. The budget process is starting about two weeks earlier than usual. Separately, the board unanimously approved Dennis Pond and Georgetown Flats as the Yarmouth sites for Bass River oyster reef restoration. The project is led by the Nature Conservancy and the state Division of Marine Fisheries. It also authorized the town to serve as applicant or co-applicant on the permits.
 
-Other items were informational. Consultants from Kleinfelder updated the board on PFAS contamination linked to the Barnstable Fire Training Academy and the airport, and said no human-health exposure has been identified in Yarmouth. The board did a first read of an eight-article special town meeting warrant, including three short-term rental articles. It heard introductions of new Natural Resources staff and a Waterways Committee report, and recognized retiring Officer Sean Brewer and his comfort dog Finley. The town administrator closed with a wastewater update on phasing and DEP discussions.
+Other business included a PFAS update from the town's consultant, Kleinfelder, and the first look at a draft Special Town Meeting warrant. The consultant reported PFAS above the state groundwater standard in new monitoring wells and surface water in Yarmouth. It also reported a chemical signature linked to the airport in surface water, and said no state standard exists for it. The board endorsed a new building, grounds and energy management superintendent, with one member abstaining. It adopted the November 3 state election warrant and approved three committee appointments. It also honored a retiring school resource officer and his comfort dog, and met new Natural Resources staff.
 
 ## Key Points & Votes
 
-### Summer Street paving
-- The petition asked to maintain and smooth or pave the dirt section. Roughly 40 or more letters were received and **none supported paving**. The police chief wrote that he does not see the benefits outweighing the potential negatives.
-- Petitioners and Old Hyannis Road residents cited potholes, access for emergency vehicles, and the length of the alternate routes. Many Summer Street residents opposed paving, citing safety, GPS-driven cut-through traffic, the narrow road, and Dennis Pond. A speaker from the family that donated the beach said the deed restricts its use and warned the family could seek to reclaim it if paving harmed child safety.
-- The public works director said the gravel is graded in spring and fall, and Summer Street has been graded twice this year. The paving estimate is about **$403,000** with a 20% contingency, including about **$100,000 for drainage**.
-- **Motion to leave Summer Street as is (not pave it) was approved.** The transcript does not give a clear tally. Board members voiced support for leaving it unpaved, and one raised rethinking traffic signals at Route 6A intersections and noted ongoing work with MassDOT.
+### Summer Street paving petition
+- Town staff mailed more than 90 notices and set up an email address for comment.
+- The administrator said the road is a town road, left unpaved at residents' request in repeated reviews from the 1980s through the early 2000s. Paving would need a Select Board vote but not a Town Meeting vote.
+- The whole street is a designated scenic road. That designation does not require paving or not paving, but tree or stone wall removal would require a Planning Board hearing.
+- A speaker cited a 1961 deed for the Dennis Pond beach that restricts its use to the children of the town, and warned the land could revert to the grantor's heirs.
+- Board members cited the beach and pond, narrow road, safety, potential cut-through traffic and the short distance to the Route 6A and Willow Street intersections. One member raised reviewing traffic signals on Route 6A and said the town is working with MassDOT on slowing traffic there.
+- **Motion to leave Summer Street unpaved was approved**; the tally was unclear.
+- Requests by speakers for a traffic study, environmental review and cost estimate were noted. Only the rough DPW estimate of **$403,000** was presented.
 
-### Budget policy
-- **FY2028 Select Board budget policy statement approved.** It allows up to **2.5%** growth for the Dennis-Yarmouth Regional School District and Cape Cod Tech. It also calls for a structurally balanced budget that fully funds contractual wage increases, utilities, pensions, health insurance and OPEB, plus road maintenance priorities.
+### FY2028 budget policy
+- **Budget policy statement approved.** It sets up to **2.5%** increases for the school district and Cape Cod Tech and calls for a structurally balanced budget. It also funds contractual wages, pensions, health insurance, OPEB and road maintenance priorities.
+- Staff will begin working with departments this week and will have contingency strategies if revenues fall short.
 
 ### Appointments and minutes
-- **Deborah Martin** was appointed to the Board of Health (unexpired term through October 2027).
-- **Drew Krause** was appointed to the disability committee (three years, through October 2029).
-- **Christine Brantley** was reappointed as the open space committee's representative to the Community Preservation Committee (through September 2027).
+- **Approved:** a Board of Health appointment (unexpired term through October 2027), a Disability Commission appointment (through October 2029), and the reappointment of the open space representative to the Community Preservation Committee (through September 2027).
 - **Minutes of November 4, 2025 approved unanimously.**
-- **Michael Ferrell's appointment as building, grounds and energy management superintendent was endorsed** (start date November 2). The chair recused herself. One member abstained and said she was disappointed his résumé lacked energy-manager credentials.
+- **The building, grounds and energy management superintendent appointment was endorsed.** The new hire starts November 2. One member abstained, citing the lack of energy-manager credentials, and urged a focus on grants.
 
 ### Bass River oyster restoration
-- **The board approved the site selection of Dinas Pond (as spelled in the transcript) and Georgetown Flats, and Yarmouth's participation as co-applicant or applicant on permits. The vote was unanimous.**
-- Plan: six sites totaling 8 acres across Yarmouth and Dennis, with two 2-acre sites in Yarmouth. Reefs would sit about two feet below the surface at low tide, with a maximum height of about one foot.
-- The town is asked only for in-kind staff time. The Nature Conservancy and DMF said the full project could reach about $1.5 million over five years, funded outside the town, and that a consultant handles permit paperwork.
+- **Approved unanimously:** the Dennis Pond and Georgetown Flats sites (two 2-acre sites, 4 acres in Yarmouth, 8 acres total with Dennis) and town participation as applicant or co-applicant on permits.
+- The Nature Conservancy and the state Division of Marine Fisheries said they would cover project costs, estimated near **$1.5 million** over five years, and a consultant would handle permit paperwork. The town's contribution is in-kind staff time.
+- Reefs would sit about 2 feet underwater at low tide and rise no more than 1 foot from the bottom. Speakers said oysters help water quality but will not solve PFAS or nutrient problems from septic systems.
+
+### Natural Resources and waterways
+- The Natural Resources director introduced a new aquaculture/water-quality technician and shellfish constable and a new natural resource officer, and a promotion to assistant director.
+- The Waterways Committee reported on dock pressure, waiting lists for slips and moorings, and plans to clean up the waterways and shellfish regulations (including a public hearing). It also plans to recruit shellfish volunteers.
 
 ### PFAS update (Kleinfelder)
-- PFAS was found in new monitoring wells and surface water in Yarmouth near the Mill Pond area. A chemical tied to the airport (6:2 FTS) was found in surface water, and no state standard exists for it.
-- The consultants said no human-health exposure has been identified in Yarmouth because detections of regulated compounds are below standards. Barnstable's wastewater plant was named as another contributing source.
-- The fire training academy's consultant is installing more monitoring wells in Yarmouth. The town's new wastewater plant will monitor but not treat for PFAS, since no treatment is required. Treating wastewater for PFAS would be very expensive.
+- The consultant said monitoring wells and surface water in Yarmouth show PFAS above the state groundwater standard of 20 (units not stated), and that a chemical tied to the airport's firefighting foam appears in surface water. That chemical has no state standard.
+- The Barnstable Fire Training Academy installed a carbon barrier that reduced downgradient concentrations. More wells are planned in Yarmouth, and public meetings by both responsible parties are expected this fall.
+- The town's new wastewater plant is not required to treat PFAS, only to monitor it. Full treatment would be very expensive.
 
 ### Elections
-- **Board delegated police-detail authority for polling places to the police chief, in consultation with the clerk.**
-- **Board adopted the warrant for the November 3, 2026 state election.**
-- In-person early voting starts Saturday, October 17. The ballot is three pages with nine questions plus the county charter question.
+- **Approved** delegating polling-place police detail authority to the police chief, in consultation with the town clerk.
+- **Approved** the warrant for the November 3, 2026 state election.
+- The ballot is three pages with nine questions plus a county charter question. In-person early voting starts Saturday, October 17.
 
-### Special town meeting warrant (first review, draft only)
-- Eight articles are proposed:
-  - an ambulance purchase, funded from ambulance receipts
-  - golf capital projects (Bass River and Bayberry Hills bathrooms and a cart path)
-  - two revolving funds (fire training facility and Parkers River Landing park)
-  - a wastewater stabilization fund appropriation from free cash
-  - three short-term rental articles (general bylaw, zoning bylaw, sunset clauses)
-  - an accessory dwelling unit update
-- The planning board will present its articles at a later meeting, and the board agreed to wait until after the planning board's public hearing.
+### Draft Special Town Meeting warrant (first review, no vote)
+- Eight draft articles: an ambulance purchase (from ambulance receipts, with no property tax funds); golf capital projects, including two bathroom projects and the cart path; revolving funds for the fire training facility and Parkers River landing; a wastewater stabilization fund deposit; and a free cash article (estimated around $5.5 million).
+- It also includes three short-term rental articles (general bylaw, zoning bylaw, sunset clauses) and an accessory dwelling unit update. The Planning Board will present these later. Staff will check whether the ADU article needs a majority or two-thirds vote.
 
 ### Other items
-- Natural Resources introduced a new shellfish constable and aquaculture technician and a new natural resource officer, and announced a promotion to assistant director. The Waterways Committee reported on dock pressure, planned regulation cleanup, and plans to recruit shellfish volunteers.
-- Officer Sean Brewer was honored with a citation on his retirement, effective September 12, 2026.
-- **Consent agenda accepted.** The Fall Community Cleanup Day is October 17, 8–10 a.m., at Town Hall.
+- The board honored a retiring school resource officer for 23 years of service and his comfort dog, Finley, with a citation.
+- The consent agenda was accepted.
+- The administrator reported on wastewater: the town is pressing MassDEP for approval of its phasing plan for groundwater discharge. The phase one financing plan is about **$207 million**, and Bayberry Hills recharge costs may involve a debt exclusion, property tax dollars and user fees. Construction contracts 5 and 6 ramp up after Columbus Day.
+- Upcoming: a capital workshop on November 10, an October 6 meeting, no October 20 meeting, and an October 27 meeting.
+- Members discussed meeting decorum and how to raise questions with the administrator late in long meetings.
 
 ## Takeaways
 
-- **Summer Street will stay gravel for now.** The board is not pursuing a paving project, and any future proposal would need engineering, traffic and drainage study. Residents should expect continued grading, not paving, and ongoing discussion of Route 6A safety.
-- **Wastewater financing is still being worked out.** The town administrator said Yarmouth is pressing the state DEP for a final decision on its phasing plan. He said extra recharge capacity at Bayberry Hills will likely involve a debt exclusion, some property tax dollars, and user fees. Construction on contracts 5 and 6 ramps up after Columbus Day. A resident also warned that proposed changes to the state short-term rental tax could affect revenue used for sewers, but the board did not respond to this.
-- **Short-term rentals and town meeting are coming up.** Three short-term rental articles and an accessory dwelling unit update are drafted for the fall warrant, with a planning board presentation to follow. Residents can also expect a PFAS monitoring update, a longer November 3 ballot, and a capital workshop on November 10.
+- Summer Street will stay a graded gravel road for now. Residents who rely on it will keep seeing grading and pothole repair rather than a paving project that would cost roughly $400,000 or more.
+- Town revenues are still growing but more slowly, so expect a tight FY2028 budget with limited room above the 2.5% school increases. Wastewater costs are the larger pressure: the board and administrator are pursuing a phased plan with the state, and a debt exclusion for Bayberry recharge is likely.
+- The draft fall Town Meeting warrant includes short-term rental bylaw changes, an ambulance purchase, golf course bathroom projects and a free cash article. The Bass River oyster project and PFAS monitoring both move forward largely at the expense of outside partners, with the town providing staff time and oversight.

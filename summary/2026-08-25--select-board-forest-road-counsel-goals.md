@@ -8,77 +8,61 @@ channel: "Town of Yarmouth Government Channel 8"
 
 ## Summary
 
-The Select Board's biggest action of the night concerned the Yarmouth Housing Authority's request for proposals (RFP) to develop housing at Forest Road. After more than an hour of public comment against the project and a presentation from a representative of the Association to Preserve Cape Cod (APCC), a board member moved that the board again state its opposition. The motion also called on the Housing Authority to withdraw the RFP and had the board engage special or town counsel to look at what legal options the town and its regulatory bodies have to stop the project. The motion was seconded and appeared to pass; the vote tally wasn't captured in the transcript. Board members noted the Housing Authority is a separate entity that controls the land and has not responded to the town's requests for a land swap.
+The Select Board spent most of the evening on the Yarmouth Housing Authority's Forest Road RFP, the proposed housing development on a roughly 18.7-acre parcel. After a long run of public comment opposing the project, and a presentation from a representative of the Association to Preserve Cape Cod (APCC), a board member moved that the board again state its opposition and call on the Housing Authority to withdraw the RFP. The motion would also engage special or town counsel to examine what legal options the town has to prevent the project. It was seconded and put to a vote. The recorded vote tally is not clear in the transcript, but the board then thanked the presenter and moved on. Board members stressed that the Housing Authority is a separate entity that controls the land and that the town has limited tools. They discussed land swaps, conservation funding, and the project's nitrogen-removal septic and stormwater requirements.
 
-The board also adopted a revised property naming policy, tentatively approved its 2026 priority goals, and endorsed two key hires. Tim Hannaford was appointed IT director to succeed the retiring Paul Chaffee, and Stephen Cole was appointed economic development program manager. The goals were approved subject to amendments and a final vote after the town administrator meets with staff. The board disbanded the Drive-In Site Utilization Committee and the Library Building Committee, with thanks, and accepted two resignations.
+The board also handled several routine matters. It approved changing the Freebird Motel Lodge's alcohol license classification from annual to seasonal, with no public comment. It approved a one-day alcohol and entertainment license for an art show at 189 Center Street on September 12 (rain date September 19). It disbanded the Drive-In Site Utilization Committee, subject to one final meeting to approve minutes, and the Library Building Committee. It approved a revised property naming policy, and endorsed the appointments of a new IT director and a new economic development program manager. The board also recognized retiring IT Director Paul Chaffee, effective August 28, and read a proclamation for National Suicide Prevention Awareness Month.
 
-In licensing business, the board changed the Free Bird Motel Lodge's license classification from annual to seasonal and approved a special alcohol and entertainment license for a September 12 art show at 189 Center Street in Yarmouth Port. The board also recognized Chaffee on his retirement and proclaimed September National Suicide Prevention Awareness Month.
+The board reviewed its draft priority goals for the coming year and tentatively approved them with amendments. The town administrator will take them to staff and report back for a final vote. Changes included wording on the wastewater goal and a new goal to foster volunteer appreciation. A resident's request to add an open-space acquisition goal was not added as its own goal. Members said open space is already reflected in existing goals and that the list has to stay narrow enough to achieve.
 
-During public comment, residents raised several topics outside the agenda. These included tree clearing along a state-controlled rail corridor near Dennis Pond, the unpaved section of Summer Street, the county's proposed transfer tax, and an airport noise roundtable on September 16. Board members said they would try to schedule discussions of the tree clearing and Summer Street. The county Assembly of Delegates representative also briefed the board on the transfer tax, a possible second-home surcharge, and the upcoming charter review vote.
+The board also heard from Susan Warner, Yarmouth's representative on the Barnstable County Assembly of Delegates. She updated the board on the regional real estate transfer tax proposal, a new proposal on second homes, and the upcoming county charter review vote. Residents also raised the clearing of trees along a state rail corridor, the unpaved section of Summer Street, and an upcoming airport noise roundtable.
 
 ## Key Points & Votes
 
-### Executive Session
-- **Voted by roll call to enter executive session** to discuss collective bargaining strategy with the police union and the possible purchase, exchange, lease, or value of real property at 544 Route 28, West Yarmouth.
-- The board returned to public session around 6 PM.
+### Forest Road RFP (Yarmouth Housing Authority)
+- Many residents spoke against developing the parcel. They cited its location in the zone of contribution to town wells, nitrogen loading to the Parker River estuary, PFAS, flooding concerns in Captain's Village, protected river herring, and past town meeting articles opposing development there.
+- An APCC representative presented its "Cape We Shape" campaign. It urged the Housing Authority to withdraw the RFP and look for another site, and offered grant-writing help and maps of priority conservation parcels. He said the Housing Authority has sole discretion and APCC has not heard back from it.
+- The town administrator said the new RFP added two requirements: a nitrogen-removal septic system, and a split of the site into a housing section and a conserved open-space section. It also requires a stormwater management plan.
+- **A motion was made and seconded to reaffirm opposition, call on the Housing Authority to withdraw the RFP, and engage special or town counsel to evaluate the town's legal options.** The transcript does not clearly capture the vote tally.
+- Board members asked the town administrator to share candidate town-owned swap sites with APCC for a preliminary review.
 
-### Forest Road / Yarmouth Housing Authority RFP
-- Many residents opposed development of the roughly 18.69-acre parcel. They cited drinking-water wells, nitrogen loading to the Parkers River estuary, flooding in Captain's Village, wildlife, and river herring. Several said town meeting articles in 2011–2013 opposed developing the land.
-- The APCC representative described its "Cape We Shape" campaign and its maps of sensitive natural resource lands. He said the parcel is not scheduled for sewer until about 2042 and encouraged the Housing Authority to withdraw the RFP and seek another site. He offered grant-writing help and ideas such as moving town-owned land to conservation status and using Community Preservation Act funds as a pledge for borrowing.
-- The town administrator said the new RFP added two requirements: a nitrogen-removal septic system and splitting the site into a housing portion and a conserved open-space portion. A stormwater management plan is also required.
-- Board members said the previous RFP drew no developers and expect this one to be difficult for developers too. They said earlier land-swap talks with the Housing Authority went nowhere.
-- **Motion to reiterate opposition, call on the Housing Authority to withdraw the RFP, and engage special or town counsel to evaluate options to prevent the project: seconded and appeared to pass (tally not captured).**
-- A board member asked the town administrator to share possible alternative town-owned sites with APCC for a preliminary read.
+### Licensing
+- **Approved unanimously:** change of the Freebird Motel Lodge's (553 Route 28, West Yarmouth) license classification from annual to seasonal.
+- **Approved as applied:** special alcohol (wine and malt) and entertainment license for a free art show and sale at 189 Center Street, September 12, 1–6 p.m. The applicant described locked storage, a TIPS-certified bartender, ID checks, and signage to keep alcohol on the property. A neighbor submitted a letter supporting overflow parking.
 
-### Public Comment Topics (no action taken)
-- **Airport noise:** A resident who represents Yarmouth on the Gateway Airport Commission urged attendance at a noise roundtable on September 16 at 6 PM at Barnstable High School (in person or by Zoom). Comments can be sent ahead of time to noiseroundtable@flyhya.com.
-- **Rail corridor tree clearing:** A resident said extensive tree cutting along an 82-foot corridor between the landfill and Dennis Pond was done under a state transportation right-of-way without notice. The chair said the town was not responsible, but the board agreed to put it on a future agenda, likely September 29.
-- **Summer Street gravel road:** An Old Hyannis Road resident asked the board to revisit a 1989 policy that keeps the road unpaved and submitted a 41-resident petition. Board members said neighbors are split and that the board needs consensus before scheduling it. It is expected to return for an update.
-- **Open space goal:** A resident asked that an open-space acquisition goal from the 2023 Open Space and Recreation Plan be added to the board's goals.
-- **State taxes and legislation:** Speakers criticized the proposed real estate transfer tax and the state senator's seasonal communities law.
-- **School regional agreement:** A resident said the school committee may send a letter about a regional agreement subcommittee.
+### Committees and appointments
+- **Approved:** disbanding the Drive-In Site Utilization Committee, subject to one final meeting to approve minutes.
+- **Approved:** disbanding the Library Building Committee.
+- **Endorsed:** appointment of Tim Hannaford as Director of Information Technology.
+- **Endorsed:** appointment of Stephen Cole as Economic Development Program Manager. The position had been open for over a year.
+- **Accepted with thanks:** resignations of John Saragin (Board of Assessors) and Christian Bova (Conservation Commission).
+- **Approved:** minutes of September 9, 2025.
 
-### Recognitions and Proclamations
-- Presented a citation recognizing IT Director Paul Chaffee on his retirement, effective August 28, for more than five years of service. The town administrator credited him with building the IT team, modernizing the network, creating a town-owned fiber network, and strengthening cybersecurity.
-- **Adopted a proclamation naming September 2026 National Suicide Prevention Awareness Month.** The proclamation cited Barnstable County's 2023 rate of 11.7 per 100,000, compared with 8.6 statewide.
+### Policy and goals
+- **Approved:** the revised property naming policy. The board has final say on naming, and it may hold hearings or surveys but is not required to.
+- **Tentatively approved:** FY priority goals with amendments, pending a staff meeting and a final board vote. Amendments include "continue to move forward" on the public wastewater system and a new goal 11 to foster volunteer appreciation.
 
-### Licensing Hearings
-- **Free Bird Motel Lodge (553 Route 28): approved changing the license from annual to seasonal, unanimously.** The applicant did not appear, and no one spoke from the public.
-- **Special alcohol (wine and malt) and entertainment license for an art show and sale at 189 Center Street, Yarmouth Port, September 12, 1–6 PM (rain date September 19): approved as applied.** The event is free, with a TIPS-certified bartender and locked storage. A neighbor submitted a supportive comment about overflow parking.
+### Consent agenda and administrator items
+- **Approved:** the consent agenda, except the reduced-fee request from a craft fair for Parkers River Landing, which was pulled so the applicant can appear in person. The remaining items were a special alcohol license for the Great Island homeowners association, a bonfire permit for the Yarmouth Seaside Festival, vista pruning at Thatcher Shore Road, and a resolution for a site readiness grant for the Mattacheese Middle School redevelopment.
+- The Bass River Boardwalk has been fully restored and reopened.
+- Capital budget requests from departments were due Friday, and preliminary recommendations will go to the Capital Program Committee in September.
+- The town has received about **$100,000** in state winter recovery assistance. It has applied for **$600,000** more in extraordinary hardship funding for storm tree damage, and the administrator hopes to reach about **$1 million** in total.
 
-### County Update (Assembly of Delegates)
-- The county's transfer tax proposal is in the state legislature's hearing stack with no timeline. Towns would have to opt in.
-- A new ordinance request for a surcharge on second homes that are not occupied much of the year is in two county committees. New York City and Rhode Island have adopted similar measures.
-- Information on the upcoming charter review election is at capecod.gov. The Assembly is not taking a position.
-- Board members asked her to come more regularly and to preview issues before votes.
+### County update (Assembly of Delegates)
+- The regional real estate transfer tax proposal is in the state legislature's hearing stack with no timeline. Towns would have to opt in, and the assembly is also reviewing a surcharge on non-primary second homes.
+- Voters will decide on county charter review, and information is on capecod.gov. Board members said they are generally not enthusiastic about new taxes and preferred incentives for year-round rentals.
 
-### Committees, Policies, and Goals
-- **Voted to disband the Drive-In Site Utilization Committee**, subject to one final meeting to approve minutes.
-- **Voted to disband the Library Building Committee** with thanks.
-- **Approved the revised property naming policy.** The board makes final naming decisions and may seek recommendations from departments and boards.
-- **Tentatively approved the 2026 priority goals** with edits: wastewater goal wording changed to "continue to move forward," and a new goal #11 to foster volunteer appreciation. The town administrator will gather staff feedback and return for a final vote. The separate open-space goal was not added; members said it is covered by existing goals.
-- **Accepted, with thanks, the resignations** of John Saragin (Board of Assessors) and Christian Bova (Conservation Commission).
-- **Approved the minutes of September 9, 2025.**
+### Other public comment and announcements
+- The Gateway Airport noise roundtable is September 16 at 6 p.m. at Barnstable High School, by Zoom or in person. Comments can be emailed ahead of time.
+- Residents asked the board to take up the tree clearing along the rail corridor near the landfill and Dennis Pond, and the unpaved section of Summer Street.
+- Early voting for the September 1 state primary continues, with polls open 7 a.m.–8 p.m. on Election Day.
+- An overdose awareness memorial is Monday, August 31, at 5:30 p.m. at Smuggler's Beach.
 
-### Appointments
-- **Endorsed the appointment of Tim Hannaford as IT director.** He is a 25-year IT professional and former county IT director in Ohio.
-- **Endorsed the appointment of Stephen Cole as economic development program manager.** He is the director of an economic development corporation in Plymouth. The position had been open more than a year.
-
-### Consent Agenda and Administrator Items
-- **Approved the consent agenda, with one item removed.** It included a special alcohol license for the Great Island homeowners association, a bonfire permit for the Seaside Festival, vista pruning at Thatcher Shore Road, and a resolution for a site readiness grant for the Mattacheese Middle School redevelopment.
-- **The reduced-fee request for the Different Drummer craft fair at Parkers River Landing was pulled.** The board wants applicants to appear in person.
-- The Bass River boardwalk has been fully restored.
-- The capital budget request deadline has passed, and a capital financing workshop is planned for the fall.
-- The town has received about $100,000 in state winter recovery assistance and applied for up to $600,000 more in extraordinary hardship funding for storm tree damage. The administrator hopes to reach roughly $1 million in total.
-- An International Overdose Awareness memorial is Monday, August 31, at 5:30 PM at Smuggler's Beach.
-
-### Announcements and Upcoming Items
-- The state primary is Tuesday, September 1. Polls are open 7 AM–8 PM. In-person early voting continues this week, 8:30–4:30, and the Town Clerk's counter takes ballots until noon Monday.
-- Upcoming agenda ideas include the tree clearing, Summer Street, Cape Light Compact, the Green Communities grant (closing in early October), and Holden's Hope playground naming.
-- Board members also asked for website fixes, including making the primary ballot easier to find and keeping the board's goals posted.
+### Upcoming agenda items
+- Tree clearing along the rail corridor, possibly on September 29, with state agency participation and public comment.
+- A Summer Street gravel road update.
+- Cape Light Compact, currently set for October 29, and a Green Communities grant that closes in early October.
 
 ## Takeaways
-
-- **Development and water:** The board is moving from objecting to the Forest Road project toward possible legal action. Water supply, nitrogen, and flooding were the main concerns, and the board is interested in working with APCC on conservation priorities. The Housing Authority controls the land and has not responded, so the outcome is uncertain.
-- **Taxes and state policy:** The county transfer tax and a possible second-home surcharge are both still in early stages. Any transfer tax would require town opt-in, and nothing is imminent. Board members voiced wariness about new taxes and preferred incentives for year-round housing. They also voiced concern about state efforts to speed up permitting and reduce local control.
-- **Town services and staffing:** New leaders are coming in for IT and economic development, and the board's goals emphasize wastewater progress, staff retention, and volunteer appreciation. Residents can expect follow-up discussions on the rail corridor tree clearing and the Summer Street gravel road. Winter storm recovery funding and the capital budget process are also moving forward.
+- **Development and water:** The board remains strongly opposed to the Forest Road project, but the land is controlled by the Housing Authority. The board is now weighing legal counsel, land swaps, and conservation funding rather than just voicing opposition.
+- **Taxes:** Board members said they are wary of any new tax, including the regional transfer tax and second-home proposals. Neither is imminent, and any transfer tax would require local opt-in.
+- **Town services:** Yarmouth is transitioning leadership in IT and economic development, has restored the Bass River Boardwalk, and is seeking state storm-recovery money. It is also moving toward a narrower, staff-informed set of annual goals.
