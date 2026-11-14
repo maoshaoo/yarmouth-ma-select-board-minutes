@@ -2,7 +2,7 @@
 
 Searchable, plain-English summaries of Town of Yarmouth, Massachusetts public meetings,
 generated from the Town's own meeting video on [Government Channel 8](https://vod.yarmouth.ma.us).
-Modeled on [plc/louisville-co-city-council-minutes](https://github.com/plc/louisville-co-city-council-minutes).
+Modeled on an open-source city council minutes project.
 
 > Transcripts are machine-generated (Whisper) and summaries are AI-written (Claude).
 > Names and figures can be wrong. The official record is the Town's approved minutes and the video itself.
