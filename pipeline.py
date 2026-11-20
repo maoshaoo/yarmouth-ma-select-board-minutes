@@ -166,7 +166,9 @@ def _ffmpeg_audio(src: str, out: Path, headers: str | None = None) -> bool:
     cmd = ["ffmpeg", "-nostdin", "-y", "-loglevel", "error"]  # -nostdin: ignore keyboard input
     if headers:
         # The Town's server drops long downloads; reconnect and resume where it left off.
-        cmd += ["-headers", headers, "-reconnect", "1", "-reconnect_streamed", "1",
+        # -rw_timeout: if no data arrives for 60s (e.g. after the Mac sleeps), give up and reconnect
+        # instead of waiting forever.
+        cmd += ["-headers", headers, "-rw_timeout", "60000000", "-reconnect", "1", "-reconnect_streamed", "1",
                 "-reconnect_on_network_error", "1", "-reconnect_on_http_error", "5xx",
                 "-reconnect_delay_max", "30"]
     cmd += ["-i", src, "-vn", "-ac", "1", "-ar", str(SAMPLE_RATE), "-f", "f32le", str(out)]
