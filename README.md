@@ -20,6 +20,8 @@ Modeled on an open-source city council minutes project.
 
 | Date | Title | Summary | Video |
 |---|---|---|---|
+| 2026-11-16 | Special Town Meeting 11-16-2026 | [summary](summary/2026-11-16--special-town-meeting-short-term-rental-bylaw.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5313) |
+| 2026-11-10 | Select Board 11-10-2026 | [summary](summary/2026-11-10--select-board-long-term-capital-debt-workshop.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5311) |
 | 2026-11-03 | November Town Meeting Warrant Articles | [summary](summary/2026-11-03--fall-town-meeting-warrant-preview.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5303) |
 | 2026-10-27 | Select Board 10-27-2026 | [summary](summary/2026-10-27--select-board-str-articles-wastewater-discharge.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5300) |
 | 2026-10-06 | Select Board 10-6-2026 | [summary](summary/2026-10-06--select-board-fire-standards-of-cover-warrant.md) | [video](https://vod.yarmouth.ma.us/internetchannel/show/5279) |
